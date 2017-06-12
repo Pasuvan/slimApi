@@ -1,0 +1,1214 @@
+{"errorCode":2000,"message":"Success","user_id":15}
+login-register=>{"login_response":{"errorCode":2000,"message":"Success","user_id":15}}
+login-register=>{"register_response":{"errorCode":"1001","message":"Invalid request"}}
+login-register=>{"register_response":{"errorCode":"1001","message":"Invalid request"}}
+login-register=>{"login_response":{"errorCode":2000,"message":"Success","user_id":15}}
+login-register=>{"register_response":{"errorCode":"1001","message":"Invalid request"}}
+login-register=>{"login_response":{"errorCode":2000,"message":"Success","user_id":15}}
+request-register=> {"USER_EMAIL":"muthu.n@digient.com","USER_USERNAME":"muthuvel","USER_PASSWORD":"welcome","USER_GENDER":"1","USER_DOB":"1989-03-15","USER_PHONE":""}
+response-register=>{"register_response":{"error_code":"1001","message":"Sorry, this email already existed"}}
+login-register=>{"login_response":{"errorCode":2000,"message":"Success","user_id":15}}
+request-register=> {"USER_EMAIL":"muthu.n@digient.com","USER_USERNAME":"muthuvel","USER_PASSWORD":"welcome","USER_GENDER":"1","USER_DOB":"1989-03-15","USER_PHONE":""}
+register_response=>null
+login-register=>{"register_response":{"errorCode":"1001","message":"Invalid request"}}
+login-register=>{"register_response":{"errorCode":"1001","message":"Invalid request"}}
+main_songs_response=>null
+main_songs_response=>null
+main_songs_response=>null
+album_response=>null
+album_response=>null
+album_response=>null
+album_response=>null
+your_library_response=>null
+login_response=>null
+login_response=>null
+login_response=>null
+request-register=> {"USER_EMAIL":"muthu.n@digient.com","USER_USERNAME":"mthu","USER_PASSWORD":"welcome","USER_GENDER":"1","USER_DOB":"1989-03-15","USER_PHONE":""}
+register_response=>null
+your_library_response=>null
+your_library_response=>null
+your_library_response=>null
+your_library_response=>null
+your_library_response=>null
+your_library_playlist_details=>null
+your_library_playlist_details=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist=>null
+your_library_playlist=>null
+your_library_playlist=>{"register_response":{"error_code":6001,"message":"Sorry, this play list name already existed"}}
+your_library_playlist=>{"register_response":{"error_code":6001,"message":"Sorry, this play list name already existed"}}
+your_library_playlist=>{"register_response":{"error_code":6001,"message":"Sorry, this play list name already existed"}}
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist=>null
+your_library_response=>null
+your_library_playlist_details=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_response=>null
+your_library_response=>null
+login_response=>null
+request-register=> {"USER_EMAIL":"muthu@gmail.com","USER_USERNAME":"muthu1","USER_PASSWORD":"welcome","USER_GENDER":"1","USER_DOB":"1983-03-15","USER_PHONE":""}
+register_response=>{"register_response":{"error_code":"1001","message":"Sorry, this username already existed"}}
+request-register=> {"USER_EMAIL":"muthu@gmail.com","USER_USERNAME":"muthu12","USER_PASSWORD":"welcome","USER_GENDER":"1","USER_DOB":"1983-03-15","USER_PHONE":""}
+register_response=>null
+your_library_response=>null
+your_library_playlist=>null
+your_library_playlist=>null
+your_library_playlist=>null
+your_library_playlist=>null
+playlist_add_songs=>null
+playlist_add_songs=>null
+playlist_add_songs=>null
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8001,"message":"Failed"}}
+your_library_playlist=>null
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8000,"message":"Success","playlist_id":2}}
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8001,"message":"Sorry, this song play list already existed"}}
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8000,"message":"Success","playlist_id":3}}
+playlist_add_songs=>{"playlist_songs":{"errorCode":8001,"message":"Invaild playlist operation"}}
+playlist_add_songs=>{"playlist_delete_songs":{"errorCode":8000,"message":"Success"}}
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8000,"message":"Success","playlist_id":4}}
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8001,"message":"Sorry, this song play list already existed"}}
+playlist_add_songs=>{"playlist_add_songs":{"error_code":8000,"message":"Success","playlist_id":5}}
+playlist_add_songs=>{"playlist_delete_songs":{"errorCode":8000,"message":"Success"}}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":20001,"message":"Failed"}}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":20001,"message":"Failed"}}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":20001,"message":"Failed"}}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":20000,"message":"Success","playlist_id":10}}
+wishlist_songs_response=>null
+wishlist_songs=>{"wishlist_delete_songs":{"errorCode":20000,"message":"Success"}}
+main_album_response=>null
+main_artist_response=>null
+wishlist_albums=>{"wishlist_delete_albums":{"errorCode":20001,"message":"Record not fount"}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":20000,"message":"Success","playlist_id":1}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":20000,"message":"Success","playlist_id":2}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":20000,"message":"Success","playlist_id":3}}
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_albums=>{"wishlist_delete_albums":{"errorCode":20001,"message":"Record not fount"}}
+wishlist_albums=>{"wishlist_delete_albums":{"errorCode":20000,"message":"Success"}}
+wishlist_album_response=>null
+wishlist_artist_response=>null
+wishlist_artist_response=>null
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","playlist_id":1}}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","playlist_id":2}}
+wishlist_artist_response=>null
+wishlist_artist_response=>null
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","playlist_id":3}}
+wishlist_songs=>{"wishlist_delete_artist":{"errorCode":17001,"message":"Record not fount"}}
+wishlist_songs=>{"wishlist_delete_artist":{"errorCode":17000,"message":"Success"}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","playlist_id":4}}
+song_history=>{"delete_song_history":{"errorCode":18000,"message":"Success"}}
+song_history=>{"add_song_history":{"error_code":18001,"message":"song_id does not exists"}}
+song_history=>{"add_song_history":{"error_code":18001,"message":"Sorry, this song history already existed"}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":6}}
+song_history=>{"add_song_history":{"error_code":18001,"message":"song_id does not exists"}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":7}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":8}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":9}}
+request-register=> {"USER_EMAIL":"test@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1988-02-12","USER_PHONE":""}
+exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+' in C:\xampp\htdocs\spotify_api\include\DbConnect.php:16
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\include\DbConnect.php(16): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\spotify_api\include\DbHandler.php(21): DbConnect->pdoconnect()
+#2 C:\xampp\htdocs\spotify_api\index.php(48): DbHandler->__construct()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 C:\xampp\htdocs\spotify_api\index.php(869): Slim\Slim->run()
+#11 {main}
+request-register=> {"USER_EMAIL":"test@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1988-02-12","USER_PHONE":""}
+register_response=>null
+request-register=> {"USER_EMAIL":"test@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1988-02-12","USER_PHONE":"","USER_GENDER":1}
+register_response=>null
+request-register=> {"USER_EMAIL":"test1@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1988-02-12","USER_PHONE":"","USER_GENDER":1}
+register_response=>{"register_response":{"error_code":"1001","message":"Sorry, this username already existed"}}
+request-register=> {"USER_EMAIL":"test1@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1988-02-12","USER_PHONE":"","USER_GENDER":1}
+register_response=>null
+request-register=> {"USER_EMAIL":"test1@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1988-02-12","USER_PHONE":"","USER_GENDER":1}
+register_response=>{"register_response":{"error_code":"1001","message":"Sorry, this username already existed"}}
+login_response=>null
+login_response=>null
+your_library_response=>null
+your_library_response=>null
+your_library_playlist_details=>null
+your_library_playlist_details=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist_songs=>null
+your_library_playlist=>null
+your_library_playlist=>{"register_response":{"error_code":6001,"message":"Sorry, this play list name already existed"}}
+your_library_playlist=>null
+your_library_playlist=>null
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+your_library_playlist=>null
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"1"}
+request-deletePlayList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_name":"year2016","playlist_id":"2"}
+your_library_playlist=>null
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"2","playlist_operation":"add","playlist_id":"4"}
+playListSongs=>{"playlist_add_songs":{"error_code":8001,"message":"Failed"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"2","playlist_operation":"add","playlist_id":"1"}
+playListSongs=>{"playlist_add_songs":{"error_code":8000,"message":"Success"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"2","playlist_operation":"add","playlist_id":"1"}
+playListSongs=>{"playlist_add_songs":{"error_code":8001,"message":"Sorry, this song play list already existed"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"6","playlist_operation":"add","playlist_id":"1"}
+playListSongs=>{"playlist_add_songs":{"error_code":8001,"message":"Sorry, this song play list already existed"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"3","album_id":"6","playlist_operation":"add","playlist_id":"1"}
+playListSongs=>{"playlist_add_songs":{"error_code":8000,"message":"Success"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"add","playlist_id":"1"}
+playListSongs=>{"playlist_add_songs":{"error_code":8000,"message":"Success"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+playListSongs=>{"playlist_delete_songs":{"error_code":8000,"message":"Success"}}
+request-playListSongsOperation=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+playListSongs=>{"playlist_delete_songs":{"error_code":8001,"message":"Record not fount"}}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_songs_response=>null
+request-getSongs=> {"user_id":"3","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_songs_response=>null
+request-getSongs=> {"user_id":"43","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_songs_response=>null
+request-getSongs=> {"user_id":"43","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_songs_response=>null
+request-getAlbums=> {"user_id":"43","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_albums_response=>null
+request-getAlbums=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_albums_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs_response=>null
+wishlist_songs=>{"wishlist_add_songs":{"error_code":13000,"message":"Success","wishlist_song_id":6}}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":13000,"message":"Success","wishlist_song_id":7}}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":13000,"message":"Success","wishlist_song_id":8}}
+wishlist_songs_response=>null
+wishlist_songs=>{"wishlist_delete_songs":{"error_code":13001,"message":"Record not fount"}}
+wishlist_songs=>{"wishlist_delete_songs":{"error_code":13000,"message":"Success"}}
+wishlist_songs=>{"wishlist_delete_songs":{"error_code":13001,"message":"Record not fount"}}
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_albums=>{"wishlist_delete_albums":{"error_code":15001,"message":"Record not fount"}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":15000,"message":"Success","wishlist_album_id":4}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":15000,"message":"Success","wishlist_album_id":5}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":15000,"message":"Success","wishlist_album_id":6}}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":15000,"message":"Success","wishlist_album_id":7}}
+wishlist_albums=>{"wishlist_delete_albums":{"error_code":15000,"message":"Success"}}
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_album_response=>null
+wishlist_artist_response=>null
+wishlist_artist_response=>null
+wishlist_songs=>{"wishlist_delete_artist":{"error_code":17001,"message":"Record not fount"}}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","wishlist_artist_id":4}}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","wishlist_artist_id":5}}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","wishlist_artist_id":6}}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","wishlist_artist_id":7}}
+wishlist_songs=>{"wishlist_delete_artist":{"error_code":17000,"message":"Success"}}
+song_history=>{"song_history":{"error_code":18001,"message":"Invaild playlist operation"}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":10}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":11}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":12}}
+song_history=>{"add_song_history":{"error_code":18000,"message":"Success","histroy_id":13}}
+request-yourLibrary=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"2","playlist_operation":"add"}
+your_library_response=>null
+request-yourLibrary=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"2","playlist_operation":"add"}
+your_library_response=>null
+request-yourLibrary=> {"user_id":"4","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"2","album_id":"2","playlist_operation":"add"}
+your_library_response=>null
+request-recentlyPlayedAlbums=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_library_response=>null
+request-playList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_library_playlist_details=>null
+request-playList=> {"user_id":"4","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_library_playlist_details=>null
+request-playListSongs=> {"user_id":"4","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_id":"1"}
+your_library_playlist_songs=>null
+request-playListSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","playlist_id":"1"}
+your_library_playlist_songs=>null
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_songs_response=>null
+request-getAlbums=> {"user_id":"43","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_albums_response=>null
+request-getAlbums=> {"user_id":"4","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+main_albums_response=>null
+request-getWishListSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+wishlist_songs_response=>null
+request-getWishListSongs=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove","playlist_id":"1"}
+wishlist_songs_response=>null
+request-getWishListAlbums=> {"user_id":"6","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+wishlist_album_response=>null
+request-getWishListArtist=> {"user_id":"5","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+wishlist_artist_response=>null
+request-getWishListArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+wishlist_artist_response=>null
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getAlbums=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+main_songs_response=>null
+request-getAlbums=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getAlbums=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+main_albums_response=>null
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+main_artist_response=>null
+request-getArtist=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","album_id":"6","playlist_operation":"remove"}
+main_artist_response=>null
+request-register=> {"USER_EMAIL":"test@digient.in","USER_USERNAME":"test","USER_PASSWORD":"welcome","USER_DOB":"1989-02-15","USER_PHONE":"","USER_GENDER":1}
+register_response=>null
+request-register=> {"USER_EMAIL":"test1@digient.in","USER_USERNAME":"test1","USER_PASSWORD":"welcome","USER_DOB":"1989-02-15","USER_PHONE":"","USER_GENDER":1}
+register_response=>null
+request-register=> {"USER_EMAIL":"test1@digient.in","USER_USERNAME":"test1","USER_PASSWORD":"welcome","USER_DOB":"1989-02-15","USER_PHONE":"","USER_GENDER":1}
+register_response=>null
+request-login=> {"email":"test1@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test1","password":"welcome","dob":"15-02-1989","gender":"male"}
+login_response=>null
+request-login=> {"email":"test1@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test1a","password":"welcome","dob":"15-02-1989","gender":"male"}
+login_response=>null
+request-yourLibrary=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"18"}
+your_library_response=>null
+request-yourLibrary=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1"}
+your_library_response=>null
+request-yourLibrary=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2"}
+your_library_response=>null
+request-yourLibrary=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4"}
+your_library_response=>null
+request-recentlyPlayedAlbums=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4"}
+your_library_response=>null
+request-playList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4"}
+your_library_playlist_details=>null
+request-playListSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"1"}
+your_library_playlist_songs=>null
+request-playListSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1"}
+your_library_playlist_songs=>null
+request-createPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1","playlist_name":"year2016"}
+your_library_playlist=>null
+request-createPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1","playlist_name":"year2016"}
+your_library_playlist=>{"register_response":{"error_code":6001,"message":"Sorry, this play list name already existed"}}
+request-createPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1","playlist_name":"year2017"}
+your_library_playlist=>null
+request-createPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1","playlist_name":"year2017"}
+your_library_playlist=>{"register_response":{"error_code":6001,"message":"Sorry, this play list name already existed"}}
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1","playlist_name":"year2017"}
+your_library_playlist=>null
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"1","playlist_name":"year2017"}
+your_library_playlist=>null
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"1","playlist_name":"year2017"}
+your_library_playlist=>null
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"1","playlist_name":"year2017"}
+your_library_playlist=>null
+request-playListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"1","song_id":"1","album_id":"3","playlist_operation":"add"}
+playListSongsOperation=>{"playlist_add_songs":{"error_code":8001,"message":"Failed"}}
+request-playListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"3","song_id":"1","album_id":"3","playlist_operation":"add"}
+playListSongsOperation=>{"playlist_add_songs":{"error_code":8000,"message":"Success"}}
+request-playListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"3","song_id":"1","album_id":"3","playlist_operation":"add"}
+playListSongsOperation=>{"playlist_add_songs":{"error_code":8001,"message":"Sorry, this song play list already existed"}}
+request-playListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"3","song_id":"1","album_id":"3","playlist_operation":"remove"}
+playListSongsOperation=>{"playlist_delete_songs":{"error_code":8000,"message":"Success"}}
+request-playListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"3","song_id":"1","album_id":"3","playlist_operation":"remove"}
+playListSongsOperation=>{"playlist_delete_songs":{"error_code":8001,"message":"Record not fount"}}
+request-playListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"3","song_id":"1","album_id":"3","playlist_operation":"add"}
+playListSongsOperation=>{"playlist_add_songs":{"error_code":8000,"message":"Success"}}
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"3","playlist_name":"year2017"}
+your_library_playlist=>null
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"3","playlist_name":"year2017"}
+your_library_playlist=>null
+request-getSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"3","playlist_name":"year2017"}
+main_songs_response=>null
+request-getAlbums=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"3","playlist_name":"year2017"}
+main_albums_response=>null
+request-getArtist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"3","playlist_name":"year2017"}
+main_artist_response=>null
+request-getWishListSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"3","playlist_name":"year2017"}
+wishlist_songs_response=>null
+request-getWishListSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","playlist_id":"3","playlist_name":"year2017"}
+wishlist_songs_response=>null
+request-wishListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":13000,"message":"Success","wishlist_song_id":9}}
+request-wishListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":13000,"message":"Success","wishlist_song_id":10}}
+request-wishListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"remove"}
+wishlist_songs=>{"wishlist_delete_songs":{"error_code":13000,"message":"Success"}}
+request-wishListSongsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_songs=>{"wishlist_add_songs":{"error_code":13000,"message":"Success","wishlist_song_id":11}}
+request-getWishListSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_songs_response=>null
+request-getWishListAlbums=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_album_response=>null
+request-wishListAlbumsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":15000,"message":"Success","wishlist_album_id":8}}
+request-wishListAlbumsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"add"}
+wishlist_albums=>{"wishlist_add_albums":{"error_code":15000,"message":"Success","wishlist_album_id":9}}
+request-wishListAlbumsOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"remove"}
+wishlist_albums=>{"wishlist_delete_albums":{"error_code":15000,"message":"Success"}}
+request-getWishListArtist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","song_id":"2","playlist_operation":"remove"}
+wishlist_artist_response=>null
+request-wishListArtistOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"add"}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","wishlist_artist_id":8}}
+request-wishListArtistOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"add"}
+wishlist_songs=>{"wishlist_add_artist":{"error_code":17000,"message":"Success","wishlist_artist_id":9}}
+request-getWishListArtist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"add"}
+wishlist_artist_response=>null
+request-wishListArtistOperation=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wishlist_songs=>{"wishlist_delete_artist":{"error_code":17000,"message":"Success"}}
+request-getWishListArtist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wishlist_artist_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-gerUserWislistArtists=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_artists_response=>null
+request-addRemoveArtistsToWishlist=> {"secure_key":"63d032408bdaf8c444f929s2602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wishlist_songs=>{"add_remove_wishlist_artists_response":{"error_code":17001,"message":"Invalid request"}}
+request-addRemoveArtistsToWishlist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"add"}
+wishlist_songs=>{"add_remove_wishlist_artists_response":{"error_code":17000,"message":"Success","wishlist_artist_id":10}}
+request-addRemoveArtistsToWishlist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wishlist_songs=>{"add_remove_wishlist_artists_response":{"error_code":17000,"message":"Success"}}
+request-addRemoveArtistsToWishlist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"435","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wishlist_songs=>{"add_remove_wishlist_artists_response":{"error_code":17001,"message":"Invaild User"}}
+request-addRemoveArtistsToWishlist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"3","album_id":"3","artist_id":"2","playlist_operation":"dsfc"}
+wishlist_songs=>{"add_remove_wishlist_artists_response":{"error_code":17001,"message":"Invaild playlist operation"}}
+request-register=> {"email":"test1@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test1","password":"welcome","dob":"15-02-1989","gender":"male"}
+register_response=>null
+request-register=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+register_response=>null
+request-login=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+login_response=>null
+request-login=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+' in C:\xampp\htdocs\spotify_api\include\DbConnect.php:16
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\include\DbConnect.php(16): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\spotify_api\include\DbHandler.php(23): DbConnect->pdoconnect()
+#2 C:\xampp\htdocs\spotify_api\index.php(88): DbHandler->__construct()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 C:\xampp\htdocs\spotify_api\index.php(961): Slim\Slim->run()
+#11 {main}
+request-login=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+request-login=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+request-login=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+request-login=> {"email":"test2@digient.in","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","username":"test2","password":"welcome","dob":"15-02-1989","gender":"male"}
+login_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"445","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"3","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"5","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"5ewrew","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2ewrew","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2ewrew","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_songs_response=>null
+request-getWishListAlbums=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2ewrew","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_albums_response=>null
+request-gerUserWislistArtists=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+wish_list_artists_response=>null
+request-recently_played_albums_list=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+recently_played_albums_list_response=>null
+request-recently_played_albums_list=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+recently_played_albums_list_response=>null
+request-getAlbumsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+get_albums_list_response=>null
+request-getSongsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+get_songs_list_response=>null
+request-getArtistsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+get_artists_list_response=>null
+request-getArtistsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+get_artists_list_response=>null
+request-getArtistsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getArtistsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+request-getArtistsList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+get_artists_list_response=>null
+request-playList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+playlists_response=>null
+request-playList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","album_id":"3","artist_id":"2","playlist_operation":"remove"}
+playlists_response=>null
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"3","artist_id":"2","playlist_operation":"remove"}
+playlist_songs_response=>null
+request-addRemoveSongsToPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"4","song_id":"2","playlist_operation":"add","album_id":"3"}
+add_remove_songs_to_playlist_response=>{"add_remove_songs_to_playlist_response":{"error_code":8000,"message":"Success"}}
+request-addRemoveSongsToPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","playlist_id":"4","song_id":"2","playlist_operation":"add","album_id":"3"}
+add_remove_songs_to_playlist_response=>{"add_remove_songs_to_playlist_response":{"error_code":8000,"message":"Success"}}
+request-addRemoveSongsToPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"3","playlist_id":"4","song_id":"2","playlist_operation":"add","album_id":"3"}
+add_remove_songs_to_playlist_response=>{"add_remove_songs_to_playlist_response":{"error_code":8000,"message":"Success"}}
+request-addRemoveSongsToPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"2","playlist_operation":"add","album_id":"3"}
+add_remove_songs_to_playlist_response=>{"add_remove_songs_to_playlist_response":{"error_code":8000,"message":"Success"}}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"2","playlist_operation":"add","album_id":"3"}
+playlist_songs_response=>null
+request-addRemoveSongsToPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+add_remove_songs_to_playlist_response=>{"add_remove_songs_to_playlist_response":{"error_code":8000,"message":"Success"}}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+playlist_songs_response=>null
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"1","song_id":"3","playlist_operation":"add","album_id":"3"}
+request-playlist_songs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"4","song_id":"3","playlist_operation":"add","album_id":"3"}
+playlist_songs_response=>null
+request-createPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_name":"dsdfdsfd","song_id":"3","playlist_operation":"add","album_id":"3"}
+create_playlist_response=>null
+request-createPlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_name":"dsdfdsfd","song_id":"3","playlist_operation":"add","album_id":"3"}
+create_playlist_response=>{"register_response":{"error_code":6001,"message":"Sorry, this playlist name already existed"}}
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+delete_playlist_response=>null
+request-deletePlayList=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+delete_playlist_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"4","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"1","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+wish_list_songs_response=>null
+request-getWishListAlbums=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+wish_list_albums_response=>null
+request-gerUserWislistArtists=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","playlist_id":"5","song_id":"3","playlist_operation":"add","album_id":"3"}
+wish_list_artists_response=>null
+request-addRemoveSongsToWishlist=> {"secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","user_id":"2","playlist_id":"4","song_id":"8","playlist_operation":"add","album_id":"5"}
+wishlist_songs=>{"add_remove_wishlist_songs_response":{"error_code":13000,"message":"Success"}}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+login_response=>null
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-login=> {"username":"muthu","password":"welcome","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-yourLibrary=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-yourLibrary=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_library_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"2"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"1"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"1"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"1"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"1"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"2"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"2"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"2"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"2"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"2"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"1","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"2"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"3"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"3"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+type_based_song_list_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1"}
+your_home_screen_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+browse_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+type_based_song_list_response=>null
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+get_songs_list_response=>null
+request-getAlbumsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+get_albums_list_response=>null
+request-getArtistsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+get_artists_list_response=>null
+request-recently_played_albums_list=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+recently_played_albums_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india"}
+browse_list_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"4","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india"}
+your_home_screen_response=>null
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india","album_id":"2"}
+get_songs_list_response=>null
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india","album_id":"1"}
+get_songs_list_response=>null
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india","album_id":"1"}
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india","album_id":"1"}
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india","album_id":"1"}
+get_songs_list_response=>null
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","country":"india","album_id":"1"}
+get_songs_list_response=>null
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+' in C:\xampp\htdocs\spotify_api\include\DbConnect.php:16
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\include\DbConnect.php(16): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\spotify_api\include\DbHandler.php(25): DbConnect->pdoconnect()
+#2 C:\xampp\htdocs\spotify_api\index.php(460): DbHandler->__construct()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 C:\xampp\htdocs\spotify_api\index.php(1259): Slim\Slim->run()
+#11 {main}
+request-getSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+get_songs_list_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"3","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+request-getHomeScreenList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_home_screen_response=>null
+request-yourLibrary=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+your_library_response=>null
+request-recently_played_albums_list=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+recently_played_albums_list_response=>null
+request-playList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1"}
+playlists_response=>null
+request-playlist_songs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"2"}
+playlist_songs_response=>null
+request-playlist_songs=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"2"}
+playlist_songs_response=>null
+request-playlist_songs=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"1"}
+playlist_songs_response=>null
+request-playlist_songs=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"3"}
+playlist_songs_response=>null
+request-playlist_songs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+playlist_songs_response=>null
+request-getSongsList=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+get_songs_list_response=>null
+request-getUserWishlistSongs=> {"user_id":"1","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+wish_list_songs_response=>null
+request-getUserWishlistSongs=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+wish_list_songs_response=>null
+request-getWishListAlbums=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+wish_list_albums_response=>null
+request-gerUserWislistArtists=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+wish_list_artists_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+your_home_screen_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+your_home_screen_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+browse_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+browse_list_response=>null
+request-getHomeScreenList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+your_home_screen_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+request-getTypeBsedSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","type":"2","type_id":"1","country":"india","album_id":"1","playlist_id":"4"}
+type_based_song_list_response=>null
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","album_id":"1"}
+type_based_album_list_response=>null
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+album_based_song_list_response=>null
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+album_based_song_list_response=>null
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+album_based_song_list_response=>null
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getAlbumBasedSongsList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+album_based_song_list_response=>null
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+song_based_album_song_list_response=>null
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+song_based_album_song_list_response=>null
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+song_based_album_song_list_response=>null
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+request-getSongBasedArtistAndSongList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1"}
+song_based_album_song_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+request-getBrowseList=> {"user_id":"2","secure_key":"63d032408bdaf8c444f9292602b58d38d1ed4a7d","song_id":"1","country":"india"}
+browse_list_response=>null
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost/spotify_api/soap/balanceservice.php?wsdl' : Extra content at the end of the document
+ in C:\xampp\htdocs\spotify_api\index.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1605): SoapClient->SoapClient('http://localhos...')
+#1 [internal function]: {closure}()
+#2 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#8 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#9 {main}
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost/soap/balanceservice.php?wsdl' : Extra content at the end of the document
+ in C:\xampp\htdocs\spotify_api\index.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1605): SoapClient->SoapClient('http://localhos...')
+#1 [internal function]: {closure}()
+#2 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#8 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#9 {main}
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost/soap/balanceservice.php?wsdl' : Extra content at the end of the document
+ in C:\xampp\htdocs\spotify_api\index.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1605): SoapClient->SoapClient('http://localhos...')
+#1 [internal function]: {closure}()
+#2 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#8 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#9 {main}
+SoapFault exception: [HTTP] Could not connect to host in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://10.0.0.8...', '', 1, 0)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#2 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#11 {main}
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost/spotify_api/soap/balanceservice.php?wsdl' : Extra content at the end of the document
+ in C:\xampp\htdocs\spotify_api\index.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1605): SoapClient->SoapClient('http://localhos...')
+#1 [internal function]: {closure}()
+#2 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#8 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#9 {main}
+SoapFault exception: [HTTP] Could not connect to host in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://10.0.0.8...', '', 1, 0)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#2 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#11 {main}
+SoapFault exception: [HTTP] Could not connect to host in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://10.0.0.8...', '', 1, 0)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#2 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#11 {main}
+SoapFault exception: [Client] looks like we got no XML document in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost/spotify_api/soap/balanceservice.php?wsdl' : failed to load external entity "http://localhost/spotify_api/soap/balanceservice.php?wsdl"
+ in C:\xampp\htdocs\spotify_api\index.php:1605
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1605): SoapClient->SoapClient('http://localhos...')
+#1 [internal function]: {closure}()
+#2 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#8 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#9 {main}
+SoapFault exception: [Client] looks like we got no XML document in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] looks like we got no XML document in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [SOAP-ENV:Server] Cannot use object of type stdClass as array in C:\xampp\htdocs\spotify_api\index.php:1611
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->__call('UserBalanceRequ...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1611): SoapClient->UserBalanceRequest(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1617): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("UserBalanceRequest") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1614
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1614): SoapClient->__call('UserBalanceRequ...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1614): SoapClient->UserBalanceRequest(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1620): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("GetWeatherSoapIn") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1614
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1614): SoapClient->__call('GetWeatherSoapI...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1614): SoapClient->GetWeatherSoapIn(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1620): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("GetWeatherHttpPostIn") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1616
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->__call('GetWeatherHttpP...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->GetWeatherHttpPostIn(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1622): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("GetWeatherHttpGetIn") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1616
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->__call('GetWeatherHttpG...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->GetWeatherHttpGetIn(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1622): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("GlobalWeather") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1616
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->__call('GlobalWeather', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->GlobalWeather(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1622): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("GlobalWeatherSoap") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1616
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->__call('GlobalWeatherSo...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->GlobalWeatherSoap(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1622): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [soap:Server] System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Data.SqlClient.SqlException: Procedure or function 'getWCity' expects parameter '@CountryName', which was not supplied.
+   at WebServicex.GlobalWeather.GetCitiesByCountry(String CountryName)
+   --- End of inner exception stack trace --- in C:\xampp\htdocs\spotify_api\index.php:1616
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->__call('GetCitiesByCoun...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->GetCitiesByCountry(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1622): Slim\Slim->run()
+#10 {main}
+SoapFault exception: [Client] Function ("GetWeatherResponse") is not a valid method for this service in C:\xampp\htdocs\spotify_api\index.php:1616
+Stack trace:
+#0 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->__call('GetWeatherRespo...', Array)
+#1 C:\xampp\htdocs\spotify_api\index.php(1616): SoapClient->GetWeatherResponse(Array)
+#2 [internal function]: {closure}()
+#3 C:\xampp\htdocs\spotify_api\libs\Slim\Route.php(468): call_user_func_array(Object(Closure), Array)
+#4 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1357): Slim\Route->dispatch()
+#5 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\Flash.php(85): Slim\Slim->call()
+#6 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\MethodOverride.php(92): Slim\Middleware\Flash->call()
+#7 C:\xampp\htdocs\spotify_api\libs\Slim\Middleware\PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 C:\xampp\htdocs\spotify_api\libs\Slim\Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#9 C:\xampp\htdocs\spotify_api\index.php(1622): Slim\Slim->run()
+#10 {main}

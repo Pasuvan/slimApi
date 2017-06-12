@@ -1,0 +1,17 @@
+http://ts.digient.co/spotify/getHomeScreenList
+ -recently_played_albums_list -> recently played albums list of a specific user
+ -inspired_by_your_recent_listening -> most listned songs of that particular user --ALBUMS
+ 
+need to send the album logo, when ever an album data is sent ,
+NEED TO ADD SONG PATH AND SHOULD GIVE 
+ -charts
+ -new releases
+ -mood
+ -poular playlist -most played albums list no user specific
+ 
+ 
+COMMON  API TO GET LIST OF SONGS BASED ON ALBUM IDS
+ 
+9. GET SONGS LIST BASED ON ALBUM ID
+10,11. not required 
+
